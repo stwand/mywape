@@ -11,3 +11,5 @@ RoxygenNote: 7.2.3
 Imports: 
     rlang,
     yardstick
+URL: https://github.com/stwand/mywape
+BugReports: https://github.com/stwand/mywape/issues
