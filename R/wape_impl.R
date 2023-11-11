@@ -5,6 +5,9 @@
 #' @param case_weights - vector
 #'
 #' @return - - vector
+#'
+#'@import yardstick
+#'
 #' @export
 #'
 #'

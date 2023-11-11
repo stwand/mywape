@@ -4,6 +4,9 @@
 #' @param ...  - Extra options
 #'
 #' @return - method
+#'
+#' @import yardstick
+#'
 #' @export
 #'
 wape <- function(data, ...) {

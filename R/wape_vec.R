@@ -7,6 +7,9 @@
 #' @param ... - Extra options
 #'
 #' @return - metric value
+#'
+#' @import yardstick
+#'
 #' @export
 #'
 #'
