@@ -9,8 +9,6 @@
 #'
 #' @return - metric value
 #'
-#' @import yardstick
-#'
 #' @export
 #'
 wape.data.frame <- function(data, truth, estimate, na_rm = TRUE, case_weights = NULL, ...) {

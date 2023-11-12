@@ -6,8 +6,6 @@
 #'
 #' @return - - vector
 #'
-#'@import yardstick
-#'
 #' @export
 #'
 #'

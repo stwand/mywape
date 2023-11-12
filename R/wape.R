@@ -5,10 +5,14 @@
 #'
 #' @return - method
 #'
-#' @import yardstick
-#'
 #' @export
 #'
 wape <- function(data, ...) {
   UseMethod("wape")
 }
+
+wape <- yardstick::new_numeric_metric(
+  wape,
+  direction = "minimize"
+)
+

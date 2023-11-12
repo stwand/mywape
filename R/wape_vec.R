@@ -8,7 +8,6 @@
 #'
 #' @return - metric value
 #'
-#' @import yardstick
 #'
 #' @export
 #'
